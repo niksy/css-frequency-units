@@ -1,0 +1,30 @@
+{
+  "name": "css-frequency-units",
+  "version": "0.0.0",
+  "description": "List of CSS frequency units.",
+  "main": "index.json",
+  "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com)",
+  "license": "MIT",
+  "scripts": {
+    "test": "jshint index.json"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "css",
+    "frequency",
+    "units"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksy/css-frequency-units.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niksy/css-frequency-units/issues"
+  },
+  "homepage": "https://github.com/niksy/css-frequency-units#readme"
+}
